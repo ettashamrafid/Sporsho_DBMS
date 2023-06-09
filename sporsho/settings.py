@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure--hvsqkd^5ysw-__g08@9a-#@9g95)rz-=fvtn*n@u4dqate_zo
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['sporsho-dbms.com']
+ALLOWED_HOSTS = ['sporsho-dbms.com','http://127.0.0.1:8000/']
 
 
 # Application definition
